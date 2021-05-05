@@ -2,7 +2,7 @@
 
 |Participants        | Monday      | Tuesday     | Wednesday    | Thursday    | Friday         |
 | ------------------ | :---------: | :---------: | :----------: | :---------: | :------------: |
-| Laura Ramirez      | after 17:00 | after 17:00 | After 17:00  | after 17:00 | 10:00 to 15:00 |
+| Laura Ramirez      | after 17:00 | after 17:00 | not availab  | after 17:00 | 10:00 to 15:00 |
 | Walter Alvarado    | after 11:00 | all day     | after 11:00  | all day     | before 15:00   |
 | Hajir Ali          | 9 to 12:00  | 9 to 12:00  | 9 to 15:00   | until 19:00 | until 19:00    |
 |                    | 15 to 19:00 | 15 to 19:00 |              |             |                |
