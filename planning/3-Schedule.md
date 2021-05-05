@@ -22,7 +22,7 @@
   - [ ] Contributor Guidelines
   - [ ] Code of Conduct
   - [ ] [project board]()
-- [live demo](https://username.github.io)
+- [live demo](https://lauraramirez220612.github.io)
 - /planning
   - with your project partner:
   - [ ] interview (your completed interview template)
