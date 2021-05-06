@@ -7,6 +7,9 @@
 | Hajir Ali          | 9 to 12:00  | 9 to 12:00  | 9 to 15:00   | until 19:00 | until 19:00    |
 |                    | 15 to 19:00 | 15 to 19:00 |              |             |                |
 
+
+# Planning Work
+
 # Week 1
 
 - Practice Stakeholder Interviews and the Design Thinking Process.
